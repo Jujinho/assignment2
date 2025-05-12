@@ -74,7 +74,7 @@ This will create a JAR file with dependencies in the `target` directory.
 - Implement email notifications for lending requests and overdue equipment
 
 ## Contributors
-- Group 1
+- Group 9
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
